@@ -1,0 +1,7 @@
+And then, there was Character!
+
+-Ground and Player has been made! 
+-Player can now move around and jump!
+-While still untextured, it's easy to figure out which one is which.
+
+Created 11/15/2017
